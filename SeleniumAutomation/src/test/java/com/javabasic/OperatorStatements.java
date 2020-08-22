@@ -26,13 +26,13 @@ public class OperatorStatements {
 		 * Operator racionale
 		 */
 		
-		int num1 = 1;
+		/*int num1 = 1;
 		int num2 = 6;
 		if (num1>=10||num2<5) {
 			System.out.println("Cumple");
 		} else {
 			System.out.println("No cumple");
-		}
+		}*/
 		
 		
 	}
